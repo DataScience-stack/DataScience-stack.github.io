@@ -4,6 +4,7 @@ layout: post
 title: "수식 연습"
 tags: Mathjax
 mathjax: true
+use_math: true
 comments: true
 ---
 
