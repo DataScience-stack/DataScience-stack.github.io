@@ -1,3 +1,5 @@
-use_math: true
+---
+mathjax: true
+---
 
 $y=ax+b$
