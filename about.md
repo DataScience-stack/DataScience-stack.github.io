@@ -12,4 +12,4 @@ Data Sciecne Study Blog
 
 ### Contact me
 
-[email@domain.com](mailto:honors@nate.com)
+[honors@nate.com](mailto:honors@nate.com)
