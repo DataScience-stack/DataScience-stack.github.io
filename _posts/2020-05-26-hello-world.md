@@ -1,8 +1,9 @@
+
 ---
 layout: post
 title: "수식 연습"
 tags: Mathjax
-use_math: true
+mathjax: true
 comments: true
 ---
 
