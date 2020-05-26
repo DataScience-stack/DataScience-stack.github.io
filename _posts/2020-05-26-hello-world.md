@@ -1,10 +1,15 @@
 ---
-title: 내 첫 번째 글
-tags: DataScience101-stack
+layout: post
+title: "수식 연습"
+tags: Mathjax
+use_math: true
+comments: true
 ---
- 
-# Welcome
- 
-## 개요
-이 글은 Jekyll을 연습하기 위해 임시로 생성한 글입니다.
-자세한 내용을 확인하려면 다음 목록의 페이지를 참조하세요.
+
+
+In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
+for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
+divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
+The kerel summation radius $r$ is equal to the N-simplex height $h$.
+
+$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
