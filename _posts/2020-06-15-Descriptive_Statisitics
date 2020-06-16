@@ -1,3 +1,10 @@
+---
+
+layout: post
+
+title: Hello World
+
+---
 
 건물이나 시설 등의 정보를 설명하기 위해서는 '위치'와 '크기'를 전달하면 되듯이 데이터를 설명하기 위해서는 위치를 나타내는 대표값(representative value)과 크기(면적)에 해당하는 '산포(*dispersion*)'를 나타내는 대표값이 있다.
 
